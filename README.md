@@ -7,7 +7,7 @@ to download the dependencies using git submodule...
 
 Simple example looks like this:
 
-IMAGE
+![Screenshot](https://raw.githubusercontent.com/darrenmothersele/nanogui-test/master/screenshot.png "Screenshot")
 
 Uses [NanoGUI](https://github.com/wjakob/nanogui), [GLFW](http://www.glfw.org/),
 [Eigen](http://eigen.tuxfamily.org/), [Embed Resource](https://github.com/cyrilcode/embed-resource),
