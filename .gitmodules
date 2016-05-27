@@ -1,0 +1,6 @@
+[submodule "lib/embed-resource"]
+	path = lib/embed-resource
+	url = https://github.com/darrenmothersele/embed-resource.git
+[submodule "lib/nanogui"]
+	path = lib/nanogui
+	url = https://github.com/wjakob/nanogui.git
